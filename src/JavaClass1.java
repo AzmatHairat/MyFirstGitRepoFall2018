@@ -3,5 +3,7 @@ public class JavaClass1 {
 
         System.out.println("Hello");
 
+        System.out.println("hello v2");
+
     }
 }
